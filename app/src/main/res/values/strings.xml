@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">example2</string>
+    <string name="NombrePersona">Nombre</string>
+    <string name="ApellidosPersona">Apellidos</string>
+</resources>
